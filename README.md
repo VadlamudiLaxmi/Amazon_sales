@@ -1,4 +1,7 @@
 # Amazon_sales
+![Amazon_sales Banner](https://github.com/VadlamudiLaxmi/Amazon_sales/blob/main/amazon_india_wide_image-3.jpg
+)
+
 Welcome to the Amazon Sales Analysis project! Here, we delve into examining sales data sourced from Amazon to extract actionable insights and trends aimed at optimizing sales strategies, understanding customer behavior, and enhancing overall business operations.
 
 ## Overview
