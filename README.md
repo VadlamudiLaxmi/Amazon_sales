@@ -26,8 +26,6 @@ analysis techniques:
 10. Identify the top 2 categories that have received maximum returns and their return percentage.   
 
 ## Entity-Relationship Diagram (ERD)
-ERD Image
-
 An Entity-Relationship Diagram (ERD) has been developed to visually illustrate the relationship between the tables within the dataset. This diagram offers a comprehensive understanding of the data structure, helping in the identification of key entities and their attributes.
 
 ## Getting Started
