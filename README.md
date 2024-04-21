@@ -14,11 +14,11 @@ The dataset utilized for this project represents diverse Amazon sales transactio
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
 
-1.Find out the top 5 customers who made the highest profits.
+1. Find out the top 5 customers who made the highest profits.
 2. Find out the average quantity ordered per category.
 3. Identify the top 5 products that have generated the highest revenue.
-4.Determine the top 5 products whose revenue has decreased compared to the previous year.
-5.Identify the highest profitable sub-category.
+4. Determine the top 5 products whose revenue has decreased compared to the previous year.
+5. Identify the highest profitable sub-category.
 6. List the products that not been sold yet
 7. Determine the month with the highest number of orders.
 8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
